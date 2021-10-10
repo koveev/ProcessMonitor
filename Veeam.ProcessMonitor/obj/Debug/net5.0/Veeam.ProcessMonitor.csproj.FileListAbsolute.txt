@@ -17,3 +17,4 @@ C:\Users\Alexandr\Desktop\Project\repos\Veeam.ProcessMonitor\Veeam.ProcessMonito
 C:\Users\Alexandr\Desktop\Project\repos\Veeam.ProcessMonitor\Veeam.ProcessMonitor\bin\Debug\net5.0\Serilog.Sinks.Console.dll
 C:\Users\Alexandr\Desktop\Project\repos\Veeam.ProcessMonitor\Veeam.ProcessMonitor\obj\Debug\net5.0\Veeam.ProcessMonitor.csproj.CopyComplete
 C:\Users\Alexandr\Desktop\Project\repos\Veeam.ProcessMonitor\Veeam.ProcessMonitor\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\Alexandr\Desktop\Project\repos\Veeam.ProcessMonitor\Veeam.ProcessMonitor\obj\Debug\net5.0\Veeam.ProcessMonitor.csproj.AssemblyReference.cache
