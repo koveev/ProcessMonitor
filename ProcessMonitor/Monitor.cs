@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Threading;
 
-namespace Veeam.ProcessMonitor
+namespace ProcessMonitor
 {
 	public class Monitor
 	{		

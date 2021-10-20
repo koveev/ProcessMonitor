@@ -3,7 +3,7 @@
 using System;
 using System.Threading;
 
-namespace Veeam.ProcessMonitor
+namespace ProcessMonitor
 {
 	public class Program
 	{

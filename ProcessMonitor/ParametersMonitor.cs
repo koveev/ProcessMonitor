@@ -1,5 +1,5 @@
 ﻿
-namespace Veeam.ProcessMonitor
+namespace ProcessMonitor
 {
 	public class ParametersMonitor
 	{
